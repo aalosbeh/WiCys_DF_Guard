@@ -3,14 +3,13 @@
 
 # Research Team Members
 Porche', Mya
-Supriyo Das 
+Supriyo Das
 Mariah Watkins-Sanders
 Karina Torres
 Emma Hill
 Cole Kirchoff 
 Antoine Owens 
 Kaliyah Hamilton
-
 Belle Woodward
 Anas AlSobeh
 
