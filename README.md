@@ -1,4 +1,5 @@
 # DF-Guard: Multimodal Guardrails for Deepfake-Enhanced Social Engineering
+#SIUC's WiCyS Team @2025 
 
 ## Overview
 
@@ -60,9 +61,9 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{dfguard2024,
   title={DF-Guard: Multimodal Guardrails for Deepfake-Enhanced Social Engineering},
-  author={WiCyS Research Team},
-  journal={WiCyS Annual Conference},
-  year={2024}
+  author={SIUC WiCyS Research Team},
+  journal={WiCyS Conference 2026},
+  year={2026}
 }
 ```
 
