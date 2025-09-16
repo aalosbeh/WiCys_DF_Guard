@@ -2,15 +2,15 @@
 # SIUC's WiCyS Chapter @ 2025 
 
 # Research Team Members
-Porche', Mya
-Supriyo Das
-Mariah Watkins-Sanders
-Karina Torres
-Emma Hill
-Cole Kirchoff 
-Antoine Owens 
-Kaliyah Hamilton
-Belle Woodward
+Mya Porche' , 
+Supriyo Das ,
+Mariah Watkins-Sanders, 
+Karina Torres, 
+Emma Hill, 
+Cole Kirchoff , 
+Antoine Owens, 
+Kaliyah Hamilton, 
+Belle Woodward, 
 Anas AlSobeh
 
 ## Overview
