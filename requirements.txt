@@ -1,0 +1,44 @@
+# Core ML libraries
+torch>=1.9.0
+torchvision>=0.10.0
+torchaudio>=0.9.0
+scikit-learn>=1.0.0
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Media processing
+opencv-python>=4.5.0
+ffmpeg-python>=0.2.0
+Pillow>=8.3.0
+pytesseract>=0.3.8
+
+# Audio processing
+librosa>=0.8.1
+soundfile>=0.10.3
+
+# Speech recognition
+openai-whisper>=20230314
+
+# Evaluation and visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Dataset management
+datasets>=1.18.0
+huggingface-hub>=0.10.0
+
+# Utilities
+tqdm>=4.62.0
+pyyaml>=5.4.0
+requests>=2.26.0
+
+# Development
+pytest>=6.2.0
+black>=21.9.0
+flake8>=3.9.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.4.0
+

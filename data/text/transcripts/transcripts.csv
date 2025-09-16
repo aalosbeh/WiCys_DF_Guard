@@ -1,0 +1,6 @@
+audio_path,transcript,language,duration,sample_rate,confidence,word_count,segments,has_speech
+data/media/audio_clips/sample_audio_0.wav,This is an important security update. Please review immediately.,en,5.0,16000,90.02385797902059,9,1,True
+data/media/audio_clips/sample_audio_1.wav,Welcome to our secure platform. Please verify your identity.,en,5.0,16000,78.47902378023278,9,1,True
+data/media/audio_clips/sample_audio_2.wav,Thank you for using our service. Your session will expire soon.,en,5.0,16000,90.82473702439934,11,1,True
+data/media/audio_clips/sample_audio_3.wav,This is an important security update. Please review immediately.,en,5.0,16000,77.93680554920245,9,1,True
+data/media/audio_clips/sample_audio_4.wav,"For technical support, please contact our help desk.",en,5.0,16000,89.09677592693434,8,1,True
