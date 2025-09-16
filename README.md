@@ -1,6 +1,19 @@
 # DF-Guard: Multimodal Guardrails for Deepfake-Enhanced Social Engineering
 # SIUC's WiCyS Chapter @ 2025 
 
+# Research Team Members
+Porche', Mya
+Supriyo Das 
+Mariah Watkins-Sanders
+Karina Torres
+Emma Hill
+Cole Kirchoff 
+Antoine Owens 
+Kaliyah Hamilton
+
+Belle Woodward
+Anas AlSobeh
+
 ## Overview
 
 DF-Guard is a multimodal security system that combines deepfake detection (video/audio) with prompt injection detection (text) to identify sophisticated social engineering attacks. Modern scammers increasingly use AI-generated media combined with carefully crafted text to conduct phishing, CEO fraud, and romance scams. This research develops a practical defense system that security teams can actually deploy.
