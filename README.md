@@ -1,5 +1,5 @@
 # DF-Guard: Multimodal Guardrails for Deepfake-Enhanced Social Engineering
-#SIUC's WiCyS Team @2025 
+# SIUC's WiCyS Team @ 2025 
 
 ## Overview
 
