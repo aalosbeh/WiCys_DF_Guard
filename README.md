@@ -30,7 +30,7 @@ DF-Guard is a multimodal security system that combines deepfake detection (video
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/df-guard.git
+git clone https://github.com/alosbeh/df-guard.git
 cd df-guard
 
 # Install dependencies
